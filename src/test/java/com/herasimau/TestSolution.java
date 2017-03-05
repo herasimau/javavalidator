@@ -1,6 +1,6 @@
 package com.herasimau;
 
-import level1.task1.Solution;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
